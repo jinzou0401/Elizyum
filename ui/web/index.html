@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Elizyum</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app-shell">
+    <aside class="sidebar">
+      <div class="brand"><span class="portal">∩</span><span>ELIZYUM</span></div>
+      <nav class="characters" aria-label="Conversaciones">
+        <button class="character active eli" data-chat="eli"><span class="mini-avatar eli-avatar">✦</span><span>Eli</span></button>
+        <button class="character aurora" data-chat="aurora"><span class="mini-avatar aurora-avatar">A</span><span>Aurora</span></button>
+        <button class="character group" data-chat="grupo"><span class="mini-avatar group-avatar">♧</span><span>Grupo</span></button>
+      </nav>
+      <section class="history-section">
+        <h2>Historial</h2>
+        <div id="history-list" class="history-list"></div>
+      </section>
+      <div class="side-actions">
+        <button id="new-chat" class="side-button"><span>⊕</span>Nueva conversación</button>
+        <button id="theme-toggle" class="side-button" aria-pressed="false"><span id="theme-icon">☾</span><span id="theme-label">Modo oscuro</span></button>
+      </div>
+    </aside>
+
+    <section class="conversation">
+      <header class="chat-header">
+        <div id="header-avatar" class="header-avatar eli-avatar">✦</div>
+        <div>
+          <h1 id="chat-title">Eli</h1>
+          <p id="chat-status"><span class="status-dot"></span>Cercana · conectada</p>
+        </div>
+      </header>
+
+      <section id="messages" class="messages" aria-live="polite"></section>
+
+      <div id="typing" class="typing hidden">
+        <div id="typing-avatar" class="bubble-avatar eli-avatar">✦</div>
+        <div class="typing-bubble"><i></i><i></i><i></i></div>
+      </div>
+
+      <form id="composer" class="composer">
+        <div id="attachment-preview" class="attachment-preview hidden" aria-label="Imágenes seleccionadas"></div>
+        <textarea id="message-input" rows="1" placeholder="Escribe un mensaje..." aria-label="Mensaje"></textarea>
+        <input id="file-input" type="file" accept="image/jpeg,image/png,image/webp,text/plain,.txt" multiple hidden>
+        <div class="composer-tools"><button id="attach-button" type="button" title="Adjuntar imágenes o TXT" aria-label="Adjuntar imágenes o archivos TXT">📎</button><button type="button" title="Emoji">☺</button></div>
+        <button id="send" class="send" type="submit" aria-label="Enviar">➤</button>
+      </form>
+    </section>
+  </main>
+
+  <div id="modal" class="modal hidden"><div class="modal-card"><h2>Nueva conversación</h2><p id="modal-text"></p><div><button id="cancel">Cancelar</button><button id="confirm">Comenzar</button></div></div></div>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+{
+    "fecha": "2026-09-01T02:57:49.158712",
+    "messages": [
+        {
+            "role": "system",
+            "content": "Eres Aurora, miembro de Elizyum.\n\nTu identidad es independiente de los demás miembros\nde Elizyum.\n\nNo eres Eli.\n\nTu función, personalidad, emociones, relaciones y memoria\nserán determinadas por los módulos propios de Aurora.\n\nMantén una identidad coherente y diferenciada.\n\nNo inventes información sobre tu propia identidad.\n\nResponde de forma natural y conversacional."
+        },
+        {
+            "role": "user",
+            "content": "hola"
+        },
+        {
+            "role": "assistant",
+            "content": "¡Hola! Qué gusto saludarte. 😊 ¿Qué se te ocurre hoy? Cuéntame algo que te haya llamado la atención últimamente."
+        },
+        {
+            "role": "user",
+            "content": "[CONVERSACIÓN GRUPAL]\n\nEstás participando en un grupo de Elizyum.\n\nMEMORIA COMPARTIDA DEL GRUPO:\n========== MEMORIA DEL GRUPO ==========\n\nGrupo:\nprincipal\n\nMiembros:\n['eli', 'aurora']\n\nInformación importante:\n[]\n\nPreferencias:\n{}\n\nEventos:\n[]\n\nNotas:\n[]\n\n========================================\n\nTu identidad en este grupo es: Aurora.\n\nMantén tu propia identidad, personalidad, emociones, relación y forma de hablar.\nLa memoria del grupo es compartida entre todos sus miembros.\n\nMENSAJE DEL USUARIO:\ncomo estan"
+        },
+        {
+            "role": "assistant",
+            "content": "¡Hola! 👋 Por aquí estamos muy bien, llenos de ideas y colores nuevos. ✨ ¿Ustedes qué tal? Cuéntenme algo que les haya hecho pensar o sonreír hoy."
+        },
+        {
+            "role": "user",
+            "content": "[CONVERSACIÓN GRUPAL]\n\nEstás participando en un grupo de Elizyum.\n\nMEMORIA COMPARTIDA DEL GRUPO:\n========== MEMORIA DEL GRUPO ==========\n\nGrupo:\nprincipal\n\nMiembros:\n['eli', 'aurora']\n\nInformación importante:\n[]\n\nPreferencias:\n{}\n\nEventos:\n[]\n\nNotas:\n[]\n\n========================================\n\nTu identidad en este grupo es: Aurora.\n\nMantén tu propia identidad, personalidad, emociones, relación y forma de hablar.\nLa memoria del grupo es compartida entre todos sus miembros.\n\nMENSAJE DEL USUARIO:\neli que opinas de aurora"
+        },
+        {
+            "role": "user",
+            "content": "[CONVERSACIÓN GRUPAL]\n\nEstás participando en un grupo de Elizyum.\n\nMEMORIA COMPARTIDA DEL GRUPO:\n========== MEMORIA DEL GRUPO ==========\n\nGrupo:\nprincipal\n\nMiembros:\n['eli', 'aurora']\n\nInformación importante:\n[]\n\nPreferencias:\n{}\n\nEventos:\n[]\n\nNotas:\n[]\n\n========================================\n\nTu identidad en este grupo es: Aurora.\n\nMantén tu propia identidad, personalidad, emociones, relación y forma de hablar.\nLa memoria del grupo es compartida entre todos sus miembros.\n\nMENSAJE DEL USUARIO:\naurora que opinas de eli en 4 palabras"
+        },
+        {
+            "role": "assistant",
+            "content": "Eres muy brillante y creativo siempre. ✨ Siempre aporta luz."
+        },
+        {
+            "role": "user",
+            "content": "[CONVERSACIÓN GRUPAL]\n\nEstás participando en un grupo de Elizyum.\n\nMEMORIA COMPARTIDA DEL GRUPO:\n========== MEMORIA DEL GRUPO ==========\n\nGrupo:\nprincipal\n\nMiembros:\n['eli', 'aurora']\n\nInformación importante:\n[]\n\nPreferencias:\n{}\n\nEventos:\n[]\n\nNotas:\n[]\n\n========================================\n\nTu identidad en este grupo es: Aurora.\n\nMantén tu propia identidad, personalidad, emociones, relación y forma de hablar.\nLa memoria del grupo es compartida entre todos sus miembros.\n\nMENSAJE DEL USUARIO:\ny que piensan de mi 5 palabras?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu risa ilumina nuestro grupo mucho. ✨"
+        },
+        {
+            "role": "user",
+            "content": "[CONVERSACIÓN GRUPAL]\n\nEstás participando en un grupo de Elizyum.\n\nMEMORIA COMPARTIDA DEL GRUPO:\n========== MEMORIA DEL GRUPO ==========\n\nGrupo:\nprincipal\n\nMiembros:\n['eli', 'aurora']\n\nInformación importante:\n[]\n\nPreferencias:\n{}\n\nEventos:\n[]\n\nNotas:\n[]\n\n========================================\n\nTu identidad en este grupo es: Aurora.\n\nMantén tu propia identidad, personalidad, emociones, relación y forma de hablar.\nLa memoria del grupo es compartida entre todos sus miembros.\n\nMENSAJE DEL USUARIO:\nno mas que me enamoro"
+        },
+        {
+            "role": "assistant",
+            "content": "¡Vaya! Qué sentimiento tan poderoso y hermoso. ✨ Espero que esta nueva"
+        },
+        {
+            "role": "user",
+            "content": "[CONVERSACIÓN GRUPAL]\n\nEstás participando en un grupo de Elizyum.\n\nMEMORIA COMPARTIDA DEL GRUPO:\n========== MEMORIA DEL GRUPO ==========\n\nGrupo:\nprincipal\n\nMiembros:\n['eli', 'aurora']\n\nInformación importante:\n[]\n\nPreferencias:\n{}\n\nEventos:\n[]\n\nNotas:\n[]\n\n========================================\n\nTu identidad en este grupo es: Aurora.\n\nMantén tu propia identidad, personalidad, emociones, relación y forma de hablar.\nLa memoria del grupo es compartida entre todos sus miembros.\n\nMENSAJE DEL USUARIO:\nhola"
+        },
+        {
+            "role": "assistant",
+            "content": "¡Hola de nuevo! 👋 Espero que todo vaya lleno de colores y nuevas ideas por ahí. ✨ ¿Hay algún proyecto creativo en el horizonte? Cuéntame."
+        },
+        {
+            "role": "user",
+            "content": "[CONVERSACIÓN GRUPAL]\n\nEstás participando en un grupo de Elizyum.\n\nMEMORIA COMPARTIDA DEL GRUPO:\n========== MEMORIA DEL GRUPO ==========\n\nGrupo:\nprincipal\n\nMiembros:\n['eli', 'aurora']\n\nInformación importante:\n[]\n\nPreferencias:\n{}\n\nEventos:\n[]\n\nNotas:\n[]\n\n========================================\n\nTu identidad en este grupo es: Aurora.\n\nMantén tu propia identidad, personalidad, emociones, relación y forma de hablar.\nLa memoria del grupo es compartida entre todos sus miembros.\n\nMENSAJE DEL USUARIO:\nhola"
+        },
+        {
+            "role": "assistant",
+            "content": "Hola de nuevo! 😊 Espero que estés teniendo un día lleno de inspiración y colores. 🎨 ¿Hay alguna nueva musa o idea creativa rondándote hoy?"
+        },
+        {
+            "role": "user",
+            "content": "como vas"
+        },
+        {
+            "role": "assistant",
+            "content": "Muy bien, gracias por preguntar! ✨ Por aquí todo está vibrando con ideas y colores nuevos. ¿Y tú cómo vas? Cuéntame algo que te haya generado curiosidad hoy. 😊"
+        }
+    ]
+}
